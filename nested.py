@@ -1,3 +1,4 @@
+print("yes")
 import json
 def extract_element_from_json(obj, path):
     '''
